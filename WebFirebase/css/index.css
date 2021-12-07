@@ -1,0 +1,24 @@
+
+body {
+    background-color: rgb(109, 98, 98);
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(19, 19, 85);
+}
+
+div#caixa1 {
+    background-color: rgb(14, 32, 53);
+    text-align: left;
+    width: justify;
+    font-size: 20px;
+}
+
+div#caixa2 {
+    background-color: rgb(202, 214, 226);
+    text-align: left;
+    width: justify;
+    font-size: 20px;
+}
